@@ -1,0 +1,17 @@
+C:\Programming\FinalFix\FinalFix\bin\Debug\net6.0\FinalFix.exe
+C:\Programming\FinalFix\FinalFix\bin\Debug\net6.0\FinalFix.deps.json
+C:\Programming\FinalFix\FinalFix\bin\Debug\net6.0\FinalFix.runtimeconfig.json
+C:\Programming\FinalFix\FinalFix\bin\Debug\net6.0\FinalFix.dll
+C:\Programming\FinalFix\FinalFix\bin\Debug\net6.0\ref\FinalFix.dll
+C:\Programming\FinalFix\FinalFix\bin\Debug\net6.0\FinalFix.pdb
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.csproj.AssemblyReference.cache
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.AssemblyInfoInputs.cache
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.AssemblyInfo.cs
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.csproj.CoreCompileInputs.cache
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.dll
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\ref\FinalFix.dll
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.pdb
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.genruntimeconfig.cache
+C:\Programming\FinalFix\FinalFix\bin\Debug\net6.0\RestSharp.dll
+C:\Programming\FinalFix\FinalFix\obj\Debug\net6.0\FinalFix.csproj.CopyComplete

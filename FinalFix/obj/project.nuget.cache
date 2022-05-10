@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SL1NzM0zsTwbki7yI7UkhNO52EBGGKiT6lF6zs1vG+/t+c/WofxD4/u29KfL510cE+4oapGsPZ9Lei3kibU+DA==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\FinalFix\\FinalFix\\FinalFix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carl.nordholm\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
